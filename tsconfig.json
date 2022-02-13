@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "strict": true,
+    "importHelpers": true,
+    "declaration": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "include": [
+    "shims.d.ts",
+    "src/**/*.ts"
+  ]
+}
